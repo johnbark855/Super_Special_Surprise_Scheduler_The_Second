@@ -10,3 +10,9 @@ Our task was to make a simple calender application where you can schedule your o
 This schedule is designed to help you clearly and concisely plan your month in advance so that you can remember important events before you run too late. It is an easy interface so yopu will have no problems using and customizing your calendar.
 
 Here is a screenshot of the website:
+
+<img src="https://dm2305files.storage.live.com/y4muzH3sFMF4at_GS0iPnbna5qy8pglrYAi3IlSocfkqm-3PDGokhtaHI2lrgQxae4bdX8q_rUgKpr-xNkq5kCEGNxR0ZpP53WuRtJryIbUtb1X1cF7ggrqedzzmSADbP_QoWm96Xfod8CLsQjwkA9UOnXhYSiHDOBuXQv1R0NOKipX-q0omBFXKj8zbc_1Hdst?width=1913&height=996&cropmode=none" width="1913" height="996" />
+
+
+here is the link of the website:
+https://johnbark855.github.io/Super_Special_Surprise_Scheduler_The_Second/
