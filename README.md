@@ -11,6 +11,9 @@ This schedule is designed to help you clearly and concisely plan your month in a
 
 Here is a screenshot of the website:
 
+<img src = 
+![image](https://user-images.githubusercontent.com/72668325/113184418-24922400-9223-11eb-917a-b4725bd1b9cf.png)/>
+
 
 
 
