@@ -11,7 +11,7 @@ This schedule is designed to help you clearly and concisely plan your month in a
 
 Here is a screenshot of the website:
 
-<img src="https://dm2305files.storage.live.com/y4muzH3sFMF4at_GS0iPnbna5qy8pglrYAi3IlSocfkqm-3PDGokhtaHI2lrgQxae4bdX8q_rUgKpr-xNkq5kCEGNxR0ZpP53WuRtJryIbUtb1X1cF7ggrqedzzmSADbP_QoWm96Xfod8CLsQjwkA9UOnXhYSiHDOBuXQv1R0NOKipX-q0omBFXKj8zbc_1Hdst?width=1913&height=996&cropmode=none" width="1913" height="996" />
+
 
 
 here is the link of the website:
